@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TabDeneme</string>
+    <string-array name="ing_array">
+        <item>Karpuz</item>
+        <item>Çilek</item>
+        <item>Muz</item>
+    </string-array>
+</resources>
